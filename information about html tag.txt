@@ -1,0 +1,68 @@
+There is opening tag and closing tag in each html webpage
+
+<index.html>		main opening tag of html
+
+</html>			closing tag of html
+
+<p></p>			opening and closing tag for paragraph writing
+			write Lorem and hit enter button in will auto generate paragrapg of some texts
+
+<pre></pre>		to show pre desinged text on webpage
+
+<head></head>		things which not displays on webpage
+
+<title></title>		title of webpage
+
+<!---->			comment tag which we can write for our information purpose only this show in our code in green colour
+
+<body></body>		content which we want to display on webpage
+
+<br/>			brek line tag to add blank space or transfer our text to next line
+
+<hr/>			to add a horrizontal line to seperate our content
+
+ATTRIBUTES
+
+We can use these attributes to change properties of our tag
+
+<html lang="en">	lang is a attribute and en is language
+
+H1 to H6		Heading tags to display our text size
+
+in vs code setting open command pallet and then click or search and click on toggle word wrap to wrap our wrap
+
+<a></a>			anchor tag to add links to our page
+			in anchor tah we can write like 
+			<a href="google.com"> Google</a>
+
+<img src=/"image.png" alt="Image name">	to add image file in webpage
+
+<video srs=/video.mp4 alt="video name"></video>
+
+<audio srs="/audio name"></audio>
+
+			by using height and width we can set image and video
+
+<b>bold</b>		show text in bold
+
+<i>italic</i>		show text in italic
+
+<u>underlined</u>	show text underlined
+
+<big>big</big>		for big size text
+
+<small>small</small>	for small size text
+
+<sub>subscript</sub>	to write like H2O (chemistry)
+
+<>sup>superscriipt</sup> to write like A2+B2=C2 (mathematical expression)
+
+<header> 		it use in <body> tag
+
+<main>			in this main tag we can use next 3 tags like section tag, article tag aslo aside tag
+
+<section>		to
+
+<footer>		in h3 we can write contact us and other information
+
+			press ctrl and slash press to convert selected text in comment
